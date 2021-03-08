@@ -12,3 +12,7 @@ var g = "\\문자를 쓰고 싶다면 역슬래시를 두 번 씁니다.";
 var h = "문자열에서 줄 바꿈을 하고 싶다면. \n 역슬래시 n을 사용합니다.";
 var i = a+b ;
 var j = "abcde";
+
+
+var book = {title: "어린왕자"};
+console.log("제목:",);
